@@ -17,5 +17,9 @@ namespace provaGitHub
         {
             return x - y;
         }
+        public static int Moltiplica(int x, int y)
+        {
+            return x * y;
+        }
     }
 }
